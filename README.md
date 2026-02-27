@@ -45,11 +45,7 @@ Drill-through analysis
 
 Data modeling with relationships
 
-📷 Screenshots
 
-(Add dashboard images inside an images folder)
-
-![Dashboard Overview](images/dashboard.png)
 💡 Key Insights
 
 West region generated the highest revenue.
